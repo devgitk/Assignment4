@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">COMP304-001_Assignment4</string>
+    <string name="studentLogin">Student Login: </string>
+    <string name="userName">Username: </string>
+    <string name="password">Password: </string>
+    <string name="adminLogin">Admin Login: </string>
+    <string name="newStudents">New Students, click here to </string>
+    <string name="registerLink"><a href="">Register!</a></string>
+
+    <string name="studentRegistration">Student Registration: </string>
+    <string name="firstName">First Name: </string>
+    <string name="lastName">Last Name: </string>
+    <string name="address">Address: </string>
+    <string name="city">City: </string>
+    <string name="postal">Postal Code: </string>
+
+    <string name="chooseProgram">Choose Program: </string>
+    <string name="programName">Program: </string>
+    <string name="programCode">Code: </string>
+    <string name="tutionFee">Tution Fee: </string>
+    <string name="duration">Duration: </string>
+    <string name="semesters">Semesters: </string>
+
+    <string name="paymentInfo">Payment Information: </string>
+    <string name="totalAmt">Total Amount: </string>
+    <string name="amtPaid">Amount Paid: </string>
+    <string name="balance">Balance: </string>
+    <string name="paymentDate">Payment Date: </string>
+    <string name="status">Status: </string>
+</resources>
